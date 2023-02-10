@@ -1,4 +1,5 @@
 # Ncurses
+main.c contains quick example of how to write an ncurses program with "no-delay" input
 
 ### HOWTO:
 
